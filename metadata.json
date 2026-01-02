@@ -1,5 +1,8 @@
 {
-  "name": "LeadFlow AI - Social Media Lead Automation",
-  "description": "A comprehensive dashboard for capturing, managing, and automating follow-ups for social media leads from Instagram and Facebook.",
-  "requestFramePermissions": []
+  "name": "LeadFlow AI Ultra",
+  "description": "Premium social media automation platform featuring Gemini-powered context-aware lead analysis and autonomous follow-ups.",
+  "requestFramePermissions": [
+    "camera",
+    "microphone"
+  ]
 }
